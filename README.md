@@ -13,7 +13,7 @@ Quick links:
 
 | Action                          | Link                                   |
 | ------------------------------- | -------------------------------------- |
-| See our workshops               |                                        |
+| See our teaching material!      | [material](https://github.com/UnityStudentAmbassadors/materials)                           |
 
 
 ## Goal
