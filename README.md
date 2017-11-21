@@ -7,6 +7,8 @@ Ambassadors help grow a passionate and skilled community of students creating aw
 
 Unity Student Ambassadors are talented Unity developers, artists, and designers, from a diverse mix of backgrounds, who are passionate about sharing their expertise in Unity development with their peers. The program aims to empower students with skills to enrich the Unity community and foster student success on their campuses. 
 
+Learn more about us [here](https://docs.google.com/presentation/d/18GvyKRpHDhHnhFhhtQMp7mf6J0K0dpy6xbkziJPnABg/edit?usp=sharing). :)
+
 Quick links:
 
 | Action                          | Link                                   |
